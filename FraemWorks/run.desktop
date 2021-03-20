@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=run
+Comment=
+Exec=/home/alex/documents/c++/FraemWorks/run
+Icon=
+Path=/home/alex/documents/c++/FraemWorks
+Terminal=true
+StartupNotify=false
