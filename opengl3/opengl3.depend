@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1562731226 source:/home/alex/documents/c++/opengl3/main.cpp
+	<SDL/SDL.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+
