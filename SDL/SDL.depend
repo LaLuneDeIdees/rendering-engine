@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1556982570 source:/home/alarm/Documents/c++/SDL/main.cpp
+	<iostream>
+	<cmath>
+	<SDL/SDL.h>
+
+1556982808 source:/run/media/alex/41DD-7810/SDL/main.cpp
+	<iostream>
+	<cmath>
+	<SDL/SDL.h>
+
+1557978456 source:/home/alex/documents/c++/SDL/main.cpp
+	<iostream>
+	<cmath>
+	<SDL/SDL.h>
+
